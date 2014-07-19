@@ -35,3 +35,4 @@
 6. To start, run `foreman start`. This will boot up Sidekiq, Redis and Puma in development mode.
 7. You can now access the app from [http://localhost:3000](http://localhost:3000)
 8. Start hacking!
+[ ![Codeship Status for xetrivity/wallgig](https://codeship.io/projects/c40baf10-f148-0131-07bb-2a83015191fd/status)](https://codeship.io/projects/27578)
